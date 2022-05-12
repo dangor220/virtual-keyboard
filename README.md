@@ -4,10 +4,10 @@
 
 ## Tasks
 
-# Develop keyboard functionality using pure JS
-# HTML structure generation using JavaScript
-# Pressing physical buttons is displayed on the virtual keyboard
-# Mouse click on virtual keyboard buttons displays text in textarea
+* Develop keyboard functionality using pure JS
+* HTML structure generation using JavaScript
+* Pressing physical buttons is displayed on the virtual keyboard
+* Mouse click on virtual keyboard buttons displays text in textarea
 
 ## Used technologies:
 
